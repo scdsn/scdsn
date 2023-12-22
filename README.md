@@ -11,6 +11,3 @@ The dataset used in our experiments is stored in the `/data` directory.
 
 Thank you for reviewing our work.
 
----
-
-[SCDSN Website](https://www.scdsn.org)
