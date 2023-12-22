@@ -1,7 +1,7 @@
 # Codebase for SCDSN
 
 ## Data Location
-Run the code using `python main.py`.
+Run the code using `python training.py`.
 
 ## Pretrained Models
 Please download the `chinese-bert-wwm-ext` model from [OpenHuggingFace](https://openhuggingface/models) for feature extraction.
